@@ -1,0 +1,68 @@
+{
+  "Categorias": [
+    {
+      "area": "Química",
+      "id":10
+    },
+    {
+      "area": "Física",
+      "id":20
+    },
+    {
+      "Area": "Matemática",
+      "id":30
+    },
+    {
+      "Area": "Mineralogia",
+      "id":40
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Química-Geral I",
+      "autor": "Russel",
+      "editora": "Saber", 
+      "id": 1
+    },
+    {
+      "nome": "Química-Geral II",
+      "autor": "Kotz",
+      "editora": "Saber", 
+      "id": 2
+    },
+    {
+      "nome": "Fisico-química I",
+      "autor": "Atinks",
+      "editora": "Saraiv", 
+      "id": 3
+    },
+    {
+      "nome": "Fisico-química II",
+      "autor": "Atinks",
+      "editora": "Saraiv", 
+      "id": 4
+    }
+  ],
+  "cadastro": [
+    {
+      "nome": "Lucas",
+      "cpf": "12345678910",
+      "id":1
+    },
+    {
+      "nome": "Rafael",
+      "cpf": "12345678911",
+      "id":2
+    },
+    {
+      "nome": "Lucas",
+      "cpf": "12345678913",
+      "id":3
+    },
+    {
+      "nome": "Tay",
+      "cpf": "12345678914",
+      "id":4
+    }
+  ]
+}
