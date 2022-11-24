@@ -9,6 +9,5 @@ O servidor possui 3 rotas: Categorias, livros e cadastro. Além de realizar os m
 ------------ LINK --------------
 
 
-link de acesso: 
-
+link de acesso:
 https://projetoindividualjson-nqp0.onrender.com
